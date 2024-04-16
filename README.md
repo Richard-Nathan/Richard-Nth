@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil de Richard-Nth
 
-<p> No momento estou estudando a parte front-end (HTML,CSS e JavaScrip <br>
+<p> No momento estou estudando a parte front-end (HTML, CSS e JavaScript) <br>
  porém, futuramente vou partir para o back-end e me tornar um dev web fullstack ^_^ espero conseguir.
 </p>
 
