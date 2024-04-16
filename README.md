@@ -1,5 +1,9 @@
 ## Bem-vindo(a) ao perfil de Richard-Nth
 
+<p> No momento estou estudando a parte front-end (HTML,CSS e JavaScrip <br>
+ porém, futuramente vou partir para o back-end e me tornar um dev web fullstack ^_^ espero conseguir.
+</p>
+
  <div>
    <a href="https://github.com/Richard-Nth">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richard-Nth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
