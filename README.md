@@ -19,7 +19,7 @@
  
 <br>
  
-### Por enquanto só tem o email msm -_- !
+### Obs. ainda preciso configurar um ícone para o outro link
  
 <div> 
  
