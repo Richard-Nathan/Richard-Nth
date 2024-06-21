@@ -22,7 +22,7 @@
 ### Por enquanto só tem o email msm -_- !
  
 <div> 
-<a href = "https://www.frontendmentor.io/profile/Richard-Nth">
  
+<a href = "https://www.frontendmentor.io/profile/Richard-Nth" target="_blank">Frontend Mentor Profile</a>
   <a href = "mailto:richardnathannunes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
