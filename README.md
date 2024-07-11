@@ -22,6 +22,6 @@
 ### Obs. ainda preciso configurar um ícone para o outro link
  
 <div> 
-<a href = "https://www.frontendmentor.io/profile/Richard-Nth" target="_blank" title="Link para o perfil do Frontend Mentor(dica: abra em uma nova aba clicando com o botão direito do mouse">Frontend Mentor Profile</a>
-  <a href = "mailto:richardnathannunes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://www.frontendmentor.io/profile/Richard-Nth" target="_blank" title="Link para o perfil do Frontend Mentor(dica: abra em uma nova guia clicando com o botão direito do mouse">Frontend Mentor Profile</a>
+  <a href = "mailto:richardnathannunes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title="Enviar email para Richard Nathan"></a>
 </div>
