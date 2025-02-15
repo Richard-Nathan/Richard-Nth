@@ -1,12 +1,12 @@
-## Bem-vindo(a) ao perfil de Richard-Nth
+## Bem-vindo(a) ao perfil de Richard-Nathan
 
 <p> No momento estou estudando a parte front-end (HTML, CSS e JavaScript) <br>
 </p>
 
  <div>
-   <a href="https://github.com/Richard-Nth">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richard-Nth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Nth&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Richard-Nathan">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richard-Nathan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Nathan&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
